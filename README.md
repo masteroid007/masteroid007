@@ -32,17 +32,11 @@ I'm constantly learning and improving my skills through courses, practical work,
 
 <div align="center">
 
-<img src="./assets/certificate.png" width="700">
+<a href="https://www.credly.com/badges/35b205de-fa59-46fd-8d15-85781b5cafb3/public_url">
+  <img src="./assets/python-for-data-science-and-ai.png" width="200">
+</a>
 
 <br><br>
-
-View Certificate on Coursera
-
-</div>
-
-Credly
-
-<div align="center">
 
 </div>
 
@@ -96,11 +90,9 @@ Exploring
 
 <div align="center">
 
-<img src="./assets/Coursera_29P31RNFX1EC.png" width="700">
-
-<br><br>
-
-[**View Certificate on Coursera**](https://coursera.org/share/42a89c2f20043de4b204a66001feba5f)
+<a href="https://coursera.org/share/42a89c2f20043de4b204a66001feba5f">
+  <img src="./assets/Coursera_29P31RNFX1EC.png" width="700">
+</a>
 
 </div>
 
