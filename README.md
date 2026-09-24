@@ -32,9 +32,17 @@ I'm constantly learning and improving my skills through courses, practical work,
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/35b205de-fa59-46fd-8d15-85781b5cafb3">
-  <img src="https://images.credly.com/size/340x340/images/35b205de-fa59-46fd-8d15-85781b5cafb3.png" width="170">
-</a>
+<img src="./assets/certificate.png" width="700">
+
+<br><br>
+
+View Certificate on Coursera
+
+</div>
+
+Credly
+
+<div align="center">
 
 </div>
 
