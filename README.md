@@ -4,7 +4,7 @@
 
 ### `masteroid007`
 
-**Computer Science Student · Python Developer | Data & Web Technologies **
+**Computer Science Student · Junior Python Developer | Data & Web Technologies**
 
 <br>
 
