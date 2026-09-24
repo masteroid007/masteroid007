@@ -86,16 +86,6 @@ Exploring
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=masteroid007&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=6B7280" />
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
