@@ -36,8 +36,6 @@ I'm constantly learning and improving my skills through courses, practical work,
   <img src="./assets/python-for-data-science-and-ai.png" width="100">
 </a>
 
-<br><br>
-
 </div>
 
 ---
