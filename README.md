@@ -28,6 +28,12 @@ I'm constantly learning and improving my skills through courses, practical work,
 
 ---
 
+## Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35b205de-fa59-46fd-8d15-85781b5cafb3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
 ## Technical Skills
 
 ### Programming Language
