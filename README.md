@@ -16,23 +16,25 @@
 
 ---
 
-## About
+## About Me
 
-I'm **Mattia Delaini**, a Computer Science student and Python developer interested in software development and emerging technologies.
+I'm **Mattia Delaini**, also known online as **masteroid007**.
 
-My main interests include **Cybersecurity, Artificial Intelligence, Backend Development, and Data Science**.
+I'm a **Computer Science student** with a strong interest in software development and modern technologies.
 
-I'm continuously improving my programming skills through hands-on projects, courses, and experimentation with different technologies.
+My main programming language is **Python**, and I'm particularly interested in **Cybersecurity, Artificial Intelligence, Backend Development, and Data Science**.
+
+I'm constantly learning and improving my skills through courses, practical work, and personal experimentation.
 
 ---
 
 ## Technical Skills
 
-### Languages
+### Programming Language
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -52,7 +54,7 @@ I'm continuously improving my programming skills through hands-on projects, cour
 
 ## Currently Learning
 
-```text
+```text id="dx14mw"
 Python
 ├── Object-Oriented Programming
 ├── Data Processing
@@ -72,14 +74,19 @@ Exploring
 
 ### Coursera
 
-**[Python for Data Science, AI & Development]**
-Coursera · Certificate of Completion
+<div align="center">
 
-[View Certificate](https://coursera.org/share/42a89c2f20043de4b204a66001feba5f)
+<img src="./assets/Coursera_29P31RNFX1EC.png" width="700">
+
+<br><br>
+
+[**View Certificate on Coursera**](https://coursera.org/share/42a89c2f20043de4b204a66001feba5f)
+
+</div>
 
 ---
 
-## GitHub
+## GitHub Statistics
 
 <div align="center">
 
@@ -94,12 +101,11 @@ Coursera · Certificate of Completion
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-masteroid007-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/856211106731917312)
-
 [![Telegram](https://img.shields.io/badge/Telegram-%40masteroid007-229ED9?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/masteroid007)
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=masteroid007&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=masteroid007&style=flat-square&color=2563EB&label=PROFILE+VIEWS">
 
 </div>
 
