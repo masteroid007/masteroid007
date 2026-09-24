@@ -30,10 +30,10 @@ I'm constantly learning and improving my skills through courses, practical work,
 
 ## Badges
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.credly.com/badges/35b205de-fa59-46fd-8d15-85781b5cafb3/public_url">
-  <img src="./assets/python-for-data-science-and-ai.png" width="200">
+  <img src="./assets/python-for-data-science-and-ai.png" width="50">
 </a>
 
 <br><br>
