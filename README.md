@@ -1,45 +1,105 @@
 <div align="center">
 
-<img src="https://github.com/masteroid007.png" width="120" />
+# Mattia Delaini
 
-<br/>
+### `masteroid007`
 
-# Mattia Delaini · masteroid007
+**Computer Science Student · Python Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+Developer;Cybersecurity+Enthusiast;AI+Enthusiast;Backend+Development;Data+Science" alt="Typing SVG" />
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/masteroid007)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/856211106731917312)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/masteroid007)
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-### 👤 About Me
+I'm **Mattia Delaini**, a Computer Science student and Python developer interested in software development and emerging technologies.
 
-</div>
+My main interests include **Cybersecurity, Artificial Intelligence, Backend Development, and Data Science**.
 
-```yaml
-name: Mattia Delaini
-alias: masteroid007
-role: Computer Science Student
-language: Python
-interests: [ Cybersecurity, AI, Backend Development, Data Science ]
-tools: [ Git, GitHub ]
+I'm continuously improving my programming skills through hands-on projects, courses, and experimentation with different technologies.
+
+---
+
+## Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## Areas of Interest
+
+| Area                        | Focus                                                 |
+| :-------------------------- | :---------------------------------------------------- |
+| **Cybersecurity**           | Security, networks and system protection              |
+| **Artificial Intelligence** | AI technologies and intelligent systems               |
+| **Backend Development**     | APIs, servers, databases and application architecture |
+| **Data Science**            | Data analysis, processing and Python-based solutions  |
+
+---
+
+## Currently Learning
+
+```text
+Python
+├── Object-Oriented Programming
+├── Data Processing
+├── APIs & Web Scraping
+└── Software Development
+
+Exploring
+├── Cybersecurity
+├── Artificial Intelligence
+├── Backend Development
+└── Data Science
 ```
 
 ---
 
+## Certifications
+
+### Coursera
+
+**[Python for Data Science, AI & Development]**
+Coursera · Certificate of Completion
+
+[View Certificate](https://coursera.org/share/42a89c2f20043de4b204a66001feba5f)
+
+---
+
+## GitHub
+
 <div align="center">
 
-### 💬 About Me
+<img src="https://github-readme-stats.vercel.app/api?username=masteroid007&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=6B7280" />
 
-<br/>
+</div>
 
-> I'm a **Computer Science Student** and Python developer interested in exploring how software, data, and modern technologies can be used to build useful and efficient solutions.
->
-> My main interests are **Cybersecurity, Artificial Intelligence, Backend Development, and Data Science**.
->
-> I'm constantly learning, experimenting with new technologies, and improving my programming skills through hands-on projects and challenges.
+---
+
+## Contact
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-masteroid007-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/856211106731917312)
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40masteroid007-229ED9?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/masteroid007)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=masteroid007&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -47,53 +107,6 @@ tools: [ Git, GitHub ]
 
 <div align="center">
 
-### 🛠️ Tech Stack
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-%230d0d0d.svg?style=for-the-badge\&logo=python\&logoColor=3B82F6)
-![Git](https://img.shields.io/badge/Git-%230d0d0d.svg?style=for-the-badge\&logo=git\&logoColor=3B82F6)
-![GitHub](https://img.shields.io/badge/GitHub-%230d0d0d.svg?style=for-the-badge\&logo=github\&logoColor=3B82F6)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Interests
-
-<br/>
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230d0d0d?style=for-the-badge\&logo=hackthebox\&logoColor=3B82F6)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-%230d0d0d?style=for-the-badge\&logo=openai\&logoColor=3B82F6)
-![Backend Development](https://img.shields.io/badge/Backend_Development-%230d0d0d?style=for-the-badge\&logo=serverfault\&logoColor=3B82F6)
-![Data Science](https://img.shields.io/badge/Data_Science-%230d0d0d?style=for-the-badge\&logo=pandas\&logoColor=3B82F6)
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Contacts
-
-<br/>
-
-[![Discord](https://img.shields.io/badge/Discord-masteroid007-%230d0d0d?style=for-the-badge\&logo=discord\&logoColor=3B82F6)](https://discord.com/users/856211106731917312)
- 
-[![Telegram](https://img.shields.io/badge/Telegram-%40masteroid007-%230d0d0d?style=for-the-badge\&logo=telegram\&logoColor=3B82F6)](https://t.me/masteroid007)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=masteroid007&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Computer Science Student · Python · Cybersecurity · AI · Backend Development · Data Science</sub>
+<sub>Computer Science Student · Python Developer · Technology Enthusiast</sub>
 
 </div>
